@@ -5,3 +5,7 @@
 
 ! Recherche
 search.brave.com##.svelte-rbiic.sponsored-unit
+
+! MediaLot
+medialot.fr##.sidebar1
+medialot.fr##.sidebar2
