@@ -13,3 +13,7 @@ medialot.fr##.sidebar2
 
 ! Meteo
 www.lachainemeteo.com##.video-edito-container
+meteofrance.com###zone-bulletin-video
+
+! Temp
+reporterre.net###appeldon > .encart_gris
