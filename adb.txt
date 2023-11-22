@@ -7,6 +7,9 @@
 ! Recherche
 search.brave.com##.svelte-rbiic.sponsored-unit
 
+! Youtube
+||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
+
 ! MediaLot
 medialot.fr##.sidebar1
 medialot.fr##.sidebar2
@@ -17,3 +20,4 @@ meteofrance.com###zone-bulletin-video
 
 ! Temp
 reporterre.net###appeldon > .encart_gris
+reporterre.net##div.noprint.encart_gris
