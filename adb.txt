@@ -5,6 +5,7 @@
 ! Homepage: https://raw.githubusercontent.com/Skytus/Ads/master/adb.txt
 
 ! Recherche
+search.brave.com##.sponsored-unit
 search.brave.com##.svelte-rbiic.sponsored-unit
 
 ! Youtube
