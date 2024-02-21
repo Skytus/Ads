@@ -6,7 +6,7 @@
 
 ! Recherche
 search.brave.com##.sponsored-unit
-search.brave.com##.svelte-rbiic.sponsored-unit
+search.brave.com##.download-button
 
 ! Youtube
 ||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
@@ -22,3 +22,4 @@ meteofrance.com###zone-bulletin-video
 ! Temp
 reporterre.net###appeldon > .encart_gris
 reporterre.net##div.noprint.encart_gris
+reporterre.net##.principaldon
