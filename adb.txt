@@ -11,9 +11,10 @@ search.brave.com##.download-button
 ! Youtube
 ||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
 
-! MediaLot
+! Actus
 medialot.fr##.sidebar1
 medialot.fr##.sidebar2
+www.lejournaltoulousain.fr##.col-sidebar
 
 ! Meteo
 www.lachainemeteo.com##.video-edito-container
