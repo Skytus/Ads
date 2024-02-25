@@ -17,6 +17,11 @@ medialot.fr##.sidebar2
 www.lejournaltoulousain.fr##.col-sidebar
 www.futura-sciences.com##.relative
 korii.slate.fr##.newsletter
+www.lesnumeriques.com##.is--sticky.ln__a-dc
+www.lesnumeriques.com##div.is--sw.ed__cntnr
+||media.sudouest.fr/assets/img/autopromo/$image
+www.sudouest.fr###auto-promo-sticky
+www.sudouest.fr##.sticky-ad
 
 ! Meteo
 www.lachainemeteo.com##.video-edito-container
