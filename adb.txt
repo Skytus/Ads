@@ -21,8 +21,10 @@ medialot.fr##.sidebar2
 www.lejournaltoulousain.fr##.col-sidebar
 www.futura-sciences.com##.relative
 korii.slate.fr##.newsletter
-www.lesnumeriques.com##.is--sticky.ln__a-dc
-www.lesnumeriques.com##div.is--sw.ed__cntnr
+www.lesnumeriques.com##.is--sticky
+www.lesnumeriques.com##div.is--sw
+www.lesnumeriques.com##.is--in-article--mobile
+www.lesnumeriques.com##.is--in-article
 ||media.sudouest.fr/assets/img/autopromo/$image
 www.sudouest.fr###auto-promo-sticky
 www.sudouest.fr##.sticky-ad
