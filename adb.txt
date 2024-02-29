@@ -8,8 +8,12 @@
 search.brave.com##.sponsored-unit
 search.brave.com##.download-button
 
-! Youtube
+! Videos
 ||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
+geo.dailymotion.com##.dailymotion-player
+imasdk.googleapis.com##.dailymotion-player
+imasdk.googleapis.com###dailymotion-pip-large-viewport
+geo.dailymotion.com###dailymotion-pip-large-viewport
 
 ! Actus
 medialot.fr##.sidebar1
@@ -22,6 +26,10 @@ www.lesnumeriques.com##div.is--sw.ed__cntnr
 ||media.sudouest.fr/assets/img/autopromo/$image
 www.sudouest.fr###auto-promo-sticky
 www.sudouest.fr##.sticky-ad
+www.sudouest.fr##.didomi-exterior-border
+www.sudouest.fr###didomi-popup
+www.leparisien.fr##.dailymotion-player
+www.leparisien.fr###dailymotion-pip-large-viewport
 
 ! Meteo
 www.lachainemeteo.com##.video-edito-container
