@@ -37,6 +37,12 @@ www.leparisien.fr###dailymotion-pip-large-viewport
 www.lachainemeteo.com##.video-edito-container
 meteofrance.com###zone-bulletin-video
 
+! Sites tech
+www.phonandroid.com##.js-stickybit-parent.nw-right-sidebar
+www.numerama.com##.bitdefender
+||korben.info/img/ads/$image
+www.numerama.com##.is-provider-youtube
+
 ! Temp
 reporterre.net###appeldon > .encart_gris
 reporterre.net##div.noprint.encart_gris
