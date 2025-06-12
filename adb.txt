@@ -18,18 +18,18 @@ geo.dailymotion.com###dailymotion-pip-large-viewport
 ! Actus
 medialot.fr##.sidebar1
 medialot.fr##.sidebar2
-www.lejournaltoulousain.fr##.col-sidebar
-www.futura-sciences.com##.relative
-korii.slate.fr##.newsletter
-www.lesnumeriques.com##.is--sticky
-www.lesnumeriques.com##div.is--sw
-www.lesnumeriques.com##.is--in-article--mobile
-www.lesnumeriques.com##.is--in-article
+medialot.fr##.lazyloaded.aligncenter
+www.ladepeche.fr##.video-container
 ||media.sudouest.fr/assets/img/autopromo/$image
 www.sudouest.fr###auto-promo-sticky
 www.sudouest.fr##.sticky-ad
 www.sudouest.fr##.didomi-exterior-border
 www.sudouest.fr###didomi-popup
+www.lejournaltoulousain.fr##.col-sidebar
+www.futura-sciences.com##.relative
+www.futura-sciences.com##.vsly-player
+www.futura-sciences.com##.video-content
+korii.slate.fr##.newsletter
 www.leparisien.fr##.dailymotion-player
 www.leparisien.fr###dailymotion-pip-large-viewport
 
@@ -40,8 +40,12 @@ meteofrance.com###zone-bulletin-video
 ! Sites tech
 www.phonandroid.com##.js-stickybit-parent.nw-right-sidebar
 www.numerama.com##.bitdefender
-||korben.info/img/ads/$image
 www.numerama.com##.is-provider-youtube
+||korben.info/img/ads/$image
+www.lesnumeriques.com##.is--sticky
+www.lesnumeriques.com##div.is--sw
+www.lesnumeriques.com##.is--in-article--mobile
+www.lesnumeriques.com##.is--in-article
 
 ! Temp
 reporterre.net###appeldon > .encart_gris
