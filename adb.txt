@@ -7,6 +7,7 @@
 ! Recherche
 search.brave.com##.sponsored-unit
 search.brave.com##.download-button
+search.brave.com###search-ad
 
 ! Videos
 ||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
@@ -29,6 +30,7 @@ www.lejournaltoulousain.fr##.col-sidebar
 www.futura-sciences.com##.relative
 www.futura-sciences.com##.vsly-player
 www.futura-sciences.com##.video-content
+www.futura-sciences.com##.section-interest.section
 korii.slate.fr##.newsletter
 www.leparisien.fr##.dailymotion-player
 www.leparisien.fr###dailymotion-pip-large-viewport
@@ -42,6 +44,10 @@ www.phonandroid.com##.js-stickybit-parent.nw-right-sidebar
 www.numerama.com##.bitdefender
 www.numerama.com##.is-provider-youtube
 ||korben.info/img/ads/$image
+korben.info##.nordvpn-box
+korben.info##.banner
+korben.info##.sidebar
+korben.info###sd-cmp
 www.lesnumeriques.com##.is--sticky
 www.lesnumeriques.com##div.is--sw
 www.lesnumeriques.com##.is--in-article--mobile
