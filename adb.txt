@@ -30,7 +30,8 @@ www.lejournaltoulousain.fr##.col-sidebar
 www.futura-sciences.com##.relative
 www.futura-sciences.com##.vsly-player
 www.futura-sciences.com##.video-content
-www.futura-sciences.com##.section-interest.section
+www.futura-sciences.com##.section-interest
+www.futura-sciences.com##.zone-insert
 korii.slate.fr##.newsletter
 www.leparisien.fr##.dailymotion-player
 www.leparisien.fr###dailymotion-pip-large-viewport
