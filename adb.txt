@@ -15,11 +15,13 @@ geo.dailymotion.com##.dailymotion-player
 imasdk.googleapis.com##.dailymotion-player
 imasdk.googleapis.com###dailymotion-pip-large-viewport
 geo.dailymotion.com###dailymotion-pip-large-viewport
+||static.canal-overseas.com/genesys/prod/genesys.html$subdocument
 
 ! Actus
 medialot.fr##.sidebar1
 medialot.fr##.sidebar2
 medialot.fr##.lazyloaded.aligncenter
+medialot.fr##[href="https://www.ecoutervoir.fr"]
 www.ladepeche.fr##.video-container
 ||media.sudouest.fr/assets/img/autopromo/$image
 www.sudouest.fr###auto-promo-sticky
