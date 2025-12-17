@@ -16,6 +16,7 @@ imasdk.googleapis.com##.dailymotion-player
 imasdk.googleapis.com###dailymotion-pip-large-viewport
 geo.dailymotion.com###dailymotion-pip-large-viewport
 ||static.canal-overseas.com/genesys/prod/genesys.html$subdocument
+||www.ultimedia.com/$subdocument
 
 ! Actus
 medialot.fr##.sidebar1
@@ -37,6 +38,7 @@ www.futura-sciences.com##.zone-insert
 korii.slate.fr##.newsletter
 www.leparisien.fr##.dailymotion-player
 www.leparisien.fr###dailymotion-pip-large-viewport
+www.lamontagne.fr##.stickyBannerContainer
 
 ! Meteo
 www.lachainemeteo.com##.video-edito-container
